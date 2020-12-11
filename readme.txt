@@ -1,2 +1,2 @@
-1.ÈçÐèÌá½»ºÚÃûµ¥£¬ÇëÔÚhttps://docs.qq.com/form/page/DZkdvcEx3Yk50bFJU Ìá½»Êý¾Ý¡£
-2.ºÚÃûµ¥¶¨ÆÚ¸üÐÂµ½github.
+1.å¦‚éœ€æäº¤é»‘åå•ï¼Œè¯·åœ¨https://docs.qq.com/form/page/DZkdvcEx3Yk50bFJU æäº¤æ•°æ®ã€‚
+2.é»‘åå•ä¸å®šæœŸæ›´æ–°åˆ°github.
